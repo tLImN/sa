@@ -1,3 +1,7 @@
+<script setup>
+import Calculator from '../components/Calculator.vue';
+</script>
+
 <template>
-  <div>Тут что-то будет!</div>
+  <Calculator />
 </template>
